@@ -39,7 +39,7 @@ module.exports = {
 				avatar_url,
 				bio,
 				techs: techsArray,
-				location
+				location,
 			});
 		}
 
